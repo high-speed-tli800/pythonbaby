@@ -1,5 +1,7 @@
 #This Database shouldn't track by github
 db.sqlite3
+db
+sqlite3
 
 #This virtual env shouldn't be track by github
 venv/
